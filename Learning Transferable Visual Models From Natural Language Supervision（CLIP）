@@ -1,0 +1,6 @@
+Learning Transferable Visual Models From Natural Language Supervision
+CLIP大模型（Contrastive Language Image Pre-training）
+数据：4亿图片文本对，直接从网上爬取，不进行标注
+监督信号/标签：文本
+下游任务：GaN，检测，分割，检索
+问题：
