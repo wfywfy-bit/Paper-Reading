@@ -4,3 +4,7 @@ CLIP大模型（Contrastive Language Image Pre-training）
 监督信号/标签：文本
 下游任务：GaN，检测，分割，检索
 问题：
+为什么可以work?模态对齐？度量学习？
+真的是zero-shot么？难道不是因为训练集见过类似的么？
+textencoder得到的特征是什么样子的？
+为啥要用文本做标签 ？
